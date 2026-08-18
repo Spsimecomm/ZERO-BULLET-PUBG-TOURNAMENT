@@ -232,7 +232,7 @@ export default function RegistrationModal({ tournament, onClose, onSubmitted }: 
               {/* Instructions */}
               <div className="p-3 bg-ink-900 border border-ink-600 rounded-lg text-sm text-gray-400">
                 Send <span className="text-gold-400 font-semibold">৳{tournament.entry_fee}</span> to{' '}
-                <span className="text-gray-200 font-mono">017XX-XXXXXX</span> via{' '}
+                <span className="text-gray-200 font-mono">01617177380</span> via{' '}
                 <span className="text-gold-400 font-semibold">{form.payment_method}</span> (Personal),
                 then enter the transaction ID below.
               </div>
